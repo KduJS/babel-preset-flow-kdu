@@ -1,0 +1,21 @@
+{
+  "name": "babel-preset-flow-kdu",
+  "version": "1.0.0",
+  "description": "yet another preset",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhduy1407/babel-preset-flow-kdu.git"
+  },
+  "author": "NKDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanhduy1407/babel-preset-flow-kdu/issues"
+  },
+  "homepage": "https://github.com/khanhduy1407/babel-preset-flow-kdu",
+  "dependencies": {
+    "babel-plugin-syntax-flow": "^6.8.0",
+    "babel-plugin-transform-class-properties": "^6.8.0",
+    "babel-plugin-transform-flow-strip-types": "^6.8.0"
+  }
+}
